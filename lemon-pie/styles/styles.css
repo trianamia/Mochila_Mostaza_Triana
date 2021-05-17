@@ -1,0 +1,22 @@
+* {
+  font-family: "New Tegomin", serif;
+}
+
+header {
+  background-image: url(../img/lemon-pie2.jpg);
+  background-size: cover;
+  color: white;
+  padding: 6rem 1rem 1rem;
+}
+
+h3 {
+  font-style: italic;
+}
+
+i {
+  margin-right: 0.5rem;
+}
+
+a {
+  color: orangered;
+}
