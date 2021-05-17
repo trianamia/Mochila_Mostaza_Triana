@@ -1,0 +1,60 @@
+nav {
+    background-color: turquoise;
+}
+h1 {
+margin: 0px;
+    background-color: blue;
+    color: white;
+}
+footer {
+    background-color: blue;
+    color: white;
+}
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+body{
+    margin: 0px;
+}
+article{
+    padding: 1rem;
+    width: 19%;
+    background-color: gainsboro;
+    border: 1pt solid rgb(197, 197, 197);
+    text-align: center;
+    margin: 2rem auto;
+    border-radius: 4%;
+}
+button{
+    background-color: royalblue;
+    color: white;
+    border-radius: 2%;
+    padding: 0.5rem 1rem;
+    border: none;
+}
+.batman{
+background-image: url(../img/bg-batman.jpg);
+background-repeat: no-repeat;
+background-position: top;
+background-size: 100% 30%;
+}
+.mujermaravilla{
+    background-image: url(../img/bg-wonderw.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 30%;
+}
+.superman{
+    background-image: url(../img/bg-superman.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100% 30%;
+}
+.fas fa-heart{
+    z-index: 10;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
